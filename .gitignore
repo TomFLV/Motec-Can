@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# MoTeC installer (large file)
+PDM_1.9.1.0096.exe
+
+# Extracted folders (can be regenerated)
+cab_extract/
+discovery_extracted/
+extracted/
+full_extract/
+pdm_manager_extracted/
+
+# Keep the MoTeC folder but ignore large binaries if needed
+# MoTeC/
+
+# Temporary files
+*.tmp
+*.log
